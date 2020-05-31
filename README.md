@@ -14,3 +14,4 @@
 * __git status:__ Retorna informações atual do projeto.
 * __git log:__ Retorna as informações das alterações feitas no projeto *(usuario, data, arquivo etc)*.
 * __git branch <<nome_do_arquivo>>:__ Cria um *novo* ramo em paralelo ao branch principal. Essa criação é importante quando vamos fazer uma implementação na versão que está em produção e para não parar ou quebrar a versão podemos criar uma nova branch e implementar nosso código e testar. Caso funcione juntamos a alteração no branch master. 
+![github-1](https://user-images.githubusercontent.com/48392472/83338127-66ff7300-a297-11ea-8a31-9bf76864d720.png)
